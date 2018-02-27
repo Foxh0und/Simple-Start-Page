@@ -18,7 +18,7 @@ From [/r/startpages](https://www.reddit.com/r/startpages):
 
 
 ## Screenshot
-
+![Screenshot](https://i.imgur.com/au6UxdX.png)
 
 ## Commands
 
