@@ -7,7 +7,7 @@
 		['-g', 'google', 'http://www.google.com/search?q='],
 		['-i ', 'google_img',	'https://www.google.com/search?hl=au&site=imghp&tbm=isch&source=hp&biw=1540&bih=762&q='],
 		['-r ', 'reddit', 'https://www.reddit.com/search?q='],
-		['-w ', 'wikipedia', 'https://it.wikipedia.org/wiki/'],
+		['-w ', 'wikipedia', 'https://en.wikipedia.org/wiki/'],
 		['-y ', 'youtube', 'https://www.youtube.com/results?search_query='],
 		['-th', 'thesaurus', 'http://www.thesaurus.com/browse/'],		
 		['-ip ', 'iptorrents', 'http://iptorrents.com/search?q=',],
